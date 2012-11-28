@@ -4,7 +4,7 @@ Modest attempt creating a set of styling rules in IntelliJ that will match [npm'
 
 ## Importing settings
 
-* Download [intellij-npm-codestyle.jar](https://github.com/bitoiu/intellij-npm-codestyle/blob/master/intellij-npm-codestyle.jar)  
+* Download [intellij-npm-codestyle.jar](https://github.com/bitoiu/intellij-npm-codestyle/blob/master/intellij-npm-codestyle.jar?raw=true)  
 * In IntelliJ goto `File - Import Settings` and open the downloaded `intellij-npm-codestyle.jar`
 * When IntelliJ restarts goto `Settings/Preferences - Codestyle` and choose `npm-codestyle` from the scheme dropdown.
 
